@@ -130,22 +130,6 @@ sections:
     background_color: primary
     background_image: images/cta-background.png
     background_image_opacity: 50
-  - type: grid_section
-    grid_items:
-      - title: Follow Us
-        content: |-
-          [Youtube](https://www.youtube.com/)<br/>
-          [Medium](https://medium.com/)<br/>
-          [Facebook](https://www.facebook.com/)<br/>
-          [Twitter](https://twitter.com/home)<br/>
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
 seo:
   title: Stackbit Event Theme
   description: The preview of the Event theme
