@@ -18,16 +18,6 @@ sections:
     background_image_size: cover
   - type: grid_section
     grid_items:
-      - title: 2 Days
-        title_align: left
-        content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
-        content_align: left
-        image: images/2-days.svg
-        image_alt: Section item 1 icon
-        image_position: left
-        image_width: twenty-five
       - title: 2 Tracks
         title_align: left
         content: Two tracks conference for curious developers.
