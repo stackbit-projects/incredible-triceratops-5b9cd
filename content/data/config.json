@@ -6,30 +6,6 @@
     "palette": "red",
     "mode": "light",
     "base_font": "sans-serif",
-    "header": {
-        "title": "Event",
-        "logo": "images/logo.svg",
-        "logo_alt": "Event logo",
-        "has_primary_nav": false,
-        "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Sponsorship",
-                "url": "/sponsorship",
-                "style": "link"
-            },
-            {
-                "label": "Tickets",
-                "url": "/thank-you",
-                "style": "primary"
-            }
-        ]
-    },
     "announcement": {
         "has_anncmnt": true,
         "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
